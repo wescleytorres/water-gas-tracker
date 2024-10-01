@@ -28,8 +28,8 @@ Antes de começar, você precisará ter instalado em sua máquina:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu_usuario/seu_projeto.git
-   cd seu_projeto/backend
+   git clone https://github.com/wescleytorres/water-gas-tracker.git
+   cd backend
    ```
 
 2. Instale as dependências:
@@ -92,5 +92,5 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## Contato
 
-- Autor: [Seu Nome](https://twitter.com/seu_usuario)
-- Email: seu_email@example.com
+- Autor: [Wescley Torres](https://github.com/wescleytorres)
+- Email: jewescley@gmail.com
